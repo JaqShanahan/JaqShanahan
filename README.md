@@ -1,4 +1,5 @@
 ### Hi there 👋
+![header](https://github.com/JaqShanahan/JaqShanahan/assets/92771891/11923e01-4e72-42e0-8f13-f6972cf59ccd)
 
 <!--
 **JaqShanahan/JaqShanahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
