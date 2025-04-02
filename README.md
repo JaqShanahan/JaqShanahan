@@ -1,6 +1,15 @@
 ![header](https://github.com/JaqShanahan/JaqShanahan/assets/92771891/11923e01-4e72-42e0-8f13-f6972cf59ccd)
 
-I am Jaq, Software Desinger, Python Connoisseur and Machine learning dev. 
+❤️ Python Connoisseur
+❄ Software Design Wizard
+🎨 Web Development Enthusiast
+
+Hello there! I'm a passionate developer with a love for crafting clean, efficient, and scalable code. Whether I'm diving deep into Python or weaving together dynamic web applications, I enjoy building innovative solutions that make an impact. I believe in the power of thoughtful software design and always aim to create intuitive, user-friendly experiences.
+
+When I’m not coding, you’ll find me hiking through the forest, soaking in the beauty of nature, and drawing inspiration from the great outdoors. I love combining my passion for technology with my love for exploration — both in the digital world and the real one.
+
+Let’s build something awesome! 🚀
+
 
 ### Technologies 💻
 
